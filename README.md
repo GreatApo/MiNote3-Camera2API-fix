@@ -14,7 +14,7 @@ Use at your own risk. I am not responsible for bricked devices, dead SD cards, t
 1. Flash your new rom or update
 2. Flash this zip form TWRP
 
-## Problems
+## Revert
 If sth doesn't work, restore your backuped files (do not forget to also add permitions) or dirty flash (flash over) your new rom or update from TWRP.
 
 ## Custom build.prop options
