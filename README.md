@@ -22,4 +22,5 @@ If you want to add some more options in your buid.prop, you can add them in file
 
 ## Credits
 Camera fix: I was informed about this fix from [this xda topic](https://forum.xda-developers.com/mi-note-3/how-to/google-camera-how-to-mi-note-3-t3757049). All thanks go to: WebDingo, Savitar and also dianluitao, EnesSastim, dimi89
+
 Buid.prop edit code: To edit the build.prop from within this flashable zip, the code from [this XDA post](https://forum.xda-developers.com/showpost.php?p=19093919&postcount=20) by unCoRrUpTeD was used.
