@@ -1,0 +1,2 @@
+# Enable camera2api
+persist.camera.HAL3.enabled=1

@@ -1,0 +1,17 @@
+show_progress(0.1, 0);
+mount("yaffs2", "MTD", "system", "/system");
+ui_print("Extracting files...");
+package_extract_dir("system", "/system");
+ui_print("Setting permissions...");
+set_perm(0, 0, 0755, "/system/etc/permissions/android.hardware.camera.full.xml");
+set_perm(0, 0, 0755, "/system/etc/permissions/android.hardware.camera.raw.xml");
+set_perm(0, 0, 0755, "/system/vendor/lib/libmmcamera_jason_s5k3p8sp_sunny.so");
+set_perm(0, 0, 0755, "/system/vendor/lib/hw/camera.sdm660.so");
+show_progress(0.2, 10);
+
+ui_print("Enabling Camera2 API in build.prop...");
+package_extract_dir("tmp", "/tmp");
+set_perm(0, 0, 0777, "/tmp/mytweaks.sh");
+run_program("/tmp/mytweaks.sh", "mytweak");
+
+unmount("/system");
