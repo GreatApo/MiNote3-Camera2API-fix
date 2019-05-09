@@ -12,8 +12,10 @@ Use at your own risk. I am not responsible for bricked devices, dead SD cards, t
 - /system/vendor/lib/hw/camera.sdm660.so
 - /system/build.prop
 1. Flash your new rom or update
-2. While in TWRP, make sure "System" is mounted (else mount it)
-3. Flash this zip form TWRP
+2. Boot to your system
+3. Reboot into recovery
+4. Make sure "System" is mounted (else mount it)
+5. Flash this zip form TWRP
 
 ## Revert
 If sth doesn't work, restore your backuped files (do not forget to also add permitions) or dirty flash (flash over) your new rom or update from TWRP.
