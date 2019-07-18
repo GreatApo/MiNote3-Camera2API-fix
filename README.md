@@ -8,6 +8,7 @@ Use at your own risk. I am not responsible for bricked devices, dead SD cards, t
 MIUI10 8.1 version
 - Enables Camera2API in build.prop
 - OIS/Front camera fixes (changes the appropriate lib files, credits at the bottom)
+
 MIUI10 9.0 version
 - Enables Camera2API in build.prop
 - Enables EIS (Electronic image Stabilization) in build.prop
