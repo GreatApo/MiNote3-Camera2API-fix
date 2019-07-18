@@ -35,9 +35,9 @@ If something doesn't work, restore your backuped files (do not forget to also ad
 If you want to add some more options in your buid.prop, you can add them in file "/tmp/update-build.prop", and they will be included in your buid.prop after flashing it.
 
 ## Credits
-Camera fix: I was informed about this fix from [this xda topic](https://forum.xda-developers.com/mi-note-3/how-to/google-camera-how-to-mi-note-3-t3757049). All thanks go to: WebDingo, Savitar and also dianluitao, EnesSastim, dimi89
+Camera fix: I was informed about this fix from [this XDA topic](https://forum.xda-developers.com/mi-note-3/how-to/google-camera-how-to-mi-note-3-t3757049). All thanks go to: WebDingo, Savitar and also dianluitao, EnesSastim, dimi89
 
 Buid.prop edit code: To edit the build.prop, the code from [this XDA post](https://forum.xda-developers.com/showpost.php?p=19093919&postcount=20) by unCoRrUpTeD was used.
 
 ## I want more
-A complete work/gather up about the GCam fixes for Mi Note 3 has been done by Engineer_Mode and you can learn more on [this 4pda post](http://4pda.ru/forum/index.php?showtopic=878111&st=3460#entry83639600) (use Chrome's translate)
+A complete work/gather up about the GCam fixes for Mi Note 3 has been done by Engineer_Mode and you can learn more on [this 4PDA post](http://4pda.ru/forum/index.php?showtopic=878111&st=3460#entry83639600) (use Chrome's translate)
