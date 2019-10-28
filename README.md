@@ -10,7 +10,9 @@ MIUI10 8.1 version
 - OIS/Front camera fixes (changes the appropriate lib files, credits at the bottom)
 
 MIUI10 9.0 version
+
 Compiled together by Engineer_Mode as Magisk module (take a look here)
+
 Thanks to: Alexe070315, Dianlujitao
 - Enables Camera2API in build.prop
 - Enables EIS (Electronic image Stabilization) in build.prop
