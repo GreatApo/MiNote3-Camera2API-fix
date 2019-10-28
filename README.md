@@ -21,12 +21,14 @@ MIUI10/11 Android 9.0 version
 
 ## Instalation
 0. Back up these files (or do a full backup):
+
 (On Android 8.1)
 - /system/etc/permissions/android.hardware.camera.full.xml
 - /system/etc/permissions/android.hardware.camera.raw.xml
 - /system/vendor/lib/libmmcamera_jason_s5k3p8sp_sunny.so
 - /system/vendor/lib/hw/camera.sdm660.so
 - /system/build.prop
+
 (On Android 9.0)
 - /system/etc/device_features/jason.xml
 - /system/priv-app/MiuiExtraPhoto/MiuiExtraPhoto.apk
