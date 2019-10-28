@@ -5,15 +5,12 @@ This is an TWRP flashable zip for Xiaomi Mi Note 3 intended to fix the Camera 2 
 Use at your own risk. I am not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed.
 
 ## Features
-MIUI10 8.1 version
+MIUI10 Android 8.1 version
 - Enables Camera2API in build.prop
 - OIS/Front camera fixes (changes the appropriate lib files, credits at the bottom)
 
-MIUI10 9.0 version
-
-Compiled together by Engineer_Mode as Magisk module (take a look here)
-
-Thanks to: Alexe070315, Dianlujitao
+MIUI10/11 Android 9.0 version
+(Combined by Engineer_Mode as Magisk module, thanks to: Alexe070315, Dianlujitao)
 - Enables Camera2API in build.prop
 - Enables EIS (Electronic image Stabilization) in build.prop
 - Front Camera Fix
