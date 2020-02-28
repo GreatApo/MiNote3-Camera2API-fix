@@ -204,7 +204,8 @@ special_mode_mask values:
       <A3Preview>jason_imx386_semco_4K_preview</A3Preview>
       <A3Video>jason_imx386_semco_4K_video</A3Video>
     </ChromatixName>
-        <ChromatixName sensor_resolution_index="7" special_mode_mask="0">
+
+    <ChromatixName sensor_resolution_index="7" special_mode_mask="0">
       <ISPPreview>jason_imx386_semco_hfr_120</ISPPreview>
       <ISPSnapshot>jason_imx386_semco_hfr_120</ISPSnapshot>
       <ISPVideo>jason_imx386_semco_hfr_120</ISPVideo>
@@ -231,5 +232,6 @@ special_mode_mask values:
       <CPPVideo>jason_imx386_semco_cpp_hfr_120</CPPVideo>
       <CPPLiveshot>jason_imx386_semco_cpp_hfr_120</CPPLiveshot>
     </ChromatixName>
+
   </ResolutionChromatixInfo>
 </ChromatixConfigurationRoot>

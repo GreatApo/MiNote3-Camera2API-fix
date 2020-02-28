@@ -2,7 +2,6 @@ persist.vendor.camera.HAL3.enabled=1
 persist.vendor.camera.stats.test=5
 persist.vendor.camera.eis.enabled=1
 vendor.camera.aux.packagelist=com.android.camera,org.codeaurora.snapcam,com.google.android.GoogleCamera
-camera.hal1.packagelist=com.whatsapp,com.intsig.camscanner,com.instagram.android
 vendor.camera.hal1.packagelist=com.whatsapp,com.intsig.camscanner,com.instagram.android
 ro.build.fingerprint=google/walleye/walleye:9/PQ3A.190801.002/5670241:user/release-keys
 ro.bootimage.build.fingerprint=google/walleye/walleye:9/PQ3A.190801.002/5670241:user/release-keys

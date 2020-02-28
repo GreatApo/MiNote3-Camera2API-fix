@@ -139,7 +139,8 @@
     <!--whether taking full size effect image in camera-->
     <bool name="is_full_size_effect">true</bool>
     <!--whether support aohdr in camera-->
-    <bool name="support_camera_aohdr">false</bool>
+    <bool name="support_camera_aohdr">true</bool>
+    <bool name="support_front_aohdr">true</bool>
     <!--whether support high frame recording in camera-->
     <bool name="support_camera_hfr">true</bool>
     <!--whether support chroma flash in camera-->
@@ -351,6 +352,8 @@
     <!--These region support face unlock-->
     <string-array name="support_face_unlock_region_dom">
 
+    <!--whether front camera support hdr or not-->
+    <bool name="support_front_hdr">true</bool>
     <!--whether support camera video high frame-->
     <bool name="support_camera_video_high_frame">true</bool>
     <!--whether enable front screen light or not-->

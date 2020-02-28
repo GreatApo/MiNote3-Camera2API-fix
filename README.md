@@ -31,16 +31,7 @@ MIUI10/11 Android 9.0 version
 
 (On Android 9.0)
 - /system/etc/device_features/jason.xml
-- /system/priv-app/MiuiExtraPhoto/MiuiExtraPhoto.apk
-- /system/priv-app/MiuiExtraPhoto/lib/arm64/libgallery_arcsoft_dualcam_refocus.so
-- /system/priv-app/MiuiExtraPhoto/lib/arm64/libgallery_arcsoft_portrait_lighting.so
-- /system/priv-app/MiuiExtraPhoto/lib/arm64/libgallery_arcsoft_portrait_lighting_c.so
-- /system/priv-app/MiuiExtraPhoto/lib/arm64/libgallery_mpbase.so
-- /system/priv-app/MiuiExtraPhoto/lib/arm64/libmibokeh_gallery.so
-- /system/priv-app/MiuiExtraPhoto/lib/arm64/librefocus.so
-- /system/priv-app/MiuiExtraPhoto/lib/arm64/librefocus_mibokeh.so
-- /system/vendor/etc/media_codecs.xml
-- /system/vendor/etc/media_codecs_performance.xml
+- /system/vendor/etc/mixer_paths.xml
 - /system/vendor/etc/media_profiles.xml
 - /system/vendor/etc/media_profiles_vendor.xml
 - /system/vendor/etc/camera/jason_imx386_ofilm_chromatix.xml
@@ -48,9 +39,9 @@ MIUI10/11 Android 9.0 version
 - /system/vendor/etc/camera/jason_s5k3m3_ofilm_chromatix.xml
 - /system/vendor/etc/camera/jason_s5k3m3_semco_chromatix.xml
 - /system/vendor/etc/camera/jason_s5k3p8sp_sunny_chromatix.xml
+- /system/vendor/etc/camera/s5k3m3sm_chromatix.xml
+- /system/vendor/etc/camera/s5k3p8sp_chromatix.xml
 - /system/vendor/etc/permissions/android.hardware.camera.ar.xml
-- /system/vendor/etc/permissions/android.hardware.camera.flash-autofocus.xml
-- /system/vendor/etc/permissions/android.hardware.camera.front.xml
 - /system/vendor/etc/permissions/android.hardware.camera.full.xml
 - /system/vendor/etc/permissions/android.hardware.camera.raw.xml
 - /system/vendor/lib/libmmcamera_jason_s5k3p8sp_sunny.so
@@ -58,8 +49,7 @@ MIUI10/11 Android 9.0 version
 1. Flash your new rom or update
 2. Boot to your system
 3. Reboot into recovery
-4. Make sure "System" is mounted (else mount it)
-5. Flash this zip form TWRP
+4. Flash this zip form TWRP
 
 ## Revert
 If something doesn't work, restore your backuped files (do not forget to also add permissions) or dirty flash (flash over) your new rom/update from TWRP again.
