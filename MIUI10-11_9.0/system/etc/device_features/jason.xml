@@ -349,8 +349,14 @@
     <bool name="sensor_has_latency">true</bool>
     <!--wether support ime xiaoai voice input-->
     <bool name="surpport_ime_xiaoai_voice">false</bool>
+
     <!--These region support face unlock-->
     <string-array name="support_face_unlock_region_dom">
+    <item>ALL</item>
+    </string-array>
+    <string-array name="support_face_unlock_region_global">
+    <item>ALL</item>
+    </string-array>	
 
     <!--whether front camera support hdr or not-->
     <bool name="support_front_hdr">true</bool>
@@ -366,8 +372,7 @@
     <!-- Support ARCore, This feature is subjected to change if google defines a standard feature.-->
     <bool name="support_ar_core">true</bool>
 
-        <item>CN</item>
-    </string-array>
+
     <!-- whether support_screen_on_delayed -->
     <bool name="support_screen_on_delayed">true</bool>
     <!-- whether support hangup while screen turnning off -->
